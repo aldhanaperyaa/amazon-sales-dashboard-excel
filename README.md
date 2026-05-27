@@ -1,8 +1,8 @@
 Amazon India – Sales & Operations Dashboard (2025)
 
-            This project focuses on analyzing Amazon India’s sales and operational performance for 2025 using Microsoft Excel. The goal was to build an interactive dashboard that helps understand sales trends, customer purchasing behavior, payment preferences, delivery performance, and regional revenue distribution.
+This project focuses on analyzing Amazon India’s sales and operational performance for 2025 using Microsoft Excel. The goal was to build an interactive dashboard that helps understand sales trends, customer purchasing behavior, payment preferences, delivery performance, and regional revenue distribution.
 
-            The dashboard was created using Pivot Tables, slicers, KPI cards, and charts to make the analysis easy to explore and understand. Different filters were added so users can interact with the data dynamically based on month, payment method, and delivery status.
+The dashboard was created using Pivot Tables, slicers, KPI cards, and charts to make the analysis easy to explore and understand. Different filters were added so users can interact with the data dynamically based on month, payment method, and delivery status.
 
 Tools Used
 Microsoft Excel
